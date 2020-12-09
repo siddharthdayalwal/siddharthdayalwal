@@ -1,4 +1,4 @@
-### Hi there, welcome to Siddharth Dayalwal's GitHub profile 👋
+![Siddharth Dayalwal](https://raw.githubusercontent.com/siddharthdayalwal/siddharthdayalwal/master/Images/sid-cover-img.jpeg)
 
 <!--
 **siddharthdayalwal/siddharthdayalwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
