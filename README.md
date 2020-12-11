@@ -36,6 +36,7 @@
   <a href="https://sessionize.com/siddharthdayalwal"><img src="https://sessionize.com/landing/images/brand/logo/sessionize-avatar.png" width="25"></img></a>&nbsp;&nbsp;
   <a href="https://www.twitch.tv/siddharth_hacks"><img src="https://seeklogo.com/images/T/twitch-tv-logo-51C922E0F0-seeklogo.com.png" width="25"></img></a>
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=siddharthdayalwal&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthdayalwal" /> </p>
 
 - - -
 <p align="center">
