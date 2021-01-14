@@ -32,7 +32,7 @@ Student Ambassador👨</a>, <a href="https://angelhack.com/">AngelHack</a> Hacka
   <a href="https://www.linkedin.com/in/siddharth-dayalwal/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>&nbsp;&nbsp;
   <a href="mailto:siddharthdayalwal2000@gmail.com"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" width="25"></img></a>&nbsp;&nbsp;
   <a href="https://medium.com/@siddharthdayalwal"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" width="25"></img></a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/c/SiddharthDayalwal"><img src="https://pngimg.com/uploads/youtube/youtube_PNG19.png" width="25"></img></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/c/SiddharthDayalwal?sub_confirmation=1"><img src="https://pngimg.com/uploads/youtube/youtube_PNG19.png" width="25"></img></a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/siddharth.dayalwal"><img src="https://www.miscarriageassociation.org.uk/wp-content/uploads/2019/10/Facebook-Logo.png" width="25"></img></a>&nbsp;&nbsp;
   <a href="https://sessionize.com/siddharthdayalwal"><img src="https://sessionize.com/landing/images/brand/logo/sessionize-avatar.png" width="25"></img></a>&nbsp;&nbsp;
   <a href="https://www.twitch.tv/siddharth_hacks"><img src="https://seeklogo.com/images/T/twitch-tv-logo-51C922E0F0-seeklogo.com.png" width="25"></img></a>
