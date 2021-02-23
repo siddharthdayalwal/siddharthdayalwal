@@ -9,7 +9,7 @@
 - - -
 
 <p align="center">Being Passionate for technology 💻 and having a desire to learn and explore more 💭 makes Siddharth what he is. He is a Former <a href="https://progate.com/">Progate</a> Community Intern 🤝🏻, <a href="https://studentambassadors.microsoft.com/en-US/">Microsoft Learn
-Student Ambassador👨</a>, <a href="https://angelhack.com/">AngelHack</a> Hackathon Ambassador👑, <a href="https://crowdsource.google.com/about/">Google Crowdsource</a>  Influencer 🤳🏻, Hackathon Mentor 🎯, <a href="https://codingblocks.com/">Coding Blocks</a> ~ <a href="https://www.hackerearth.com/">HackerEarth</a> Ambassador 🚀 and Lead Organizer for <a href="https://hackthisfall.tech/">Hack This Fall</a> Hackathon.🍁</p>
+Student Ambassador👨</a>, <a href="https://angelhack.com/">AngelHack</a> Student Ambassador👑, <a href="https://crowdsource.google.com/about/">Google Crowdsource</a>  Influencer 🤳🏻, Hackathon Mentor 🎯, <a href="https://codingblocks.com/">Coding Blocks</a> ~ <a href="https://www.hackerearth.com/">HackerEarth</a> Ambassador 🚀 and Lead Organizer for <a href="https://hackthisfall.tech/">Hack This Fall</a> Hackathon.🍁</p>
 
 <p align="center">His passion for Hackathon is immense and he has been part of 50+ Hackathons with different roles.🤓<br>Checkout his Hackathon Journey visiting <a href="https://siddharth-hacks.live/">siddharth-hacks.live</a>!🕺🏻</p>
 
