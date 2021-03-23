@@ -3,28 +3,28 @@
 - - -
 <p align="center">
   Hey there 👋🏻 <br>
-  Welcome to Siddharth's GitHub Profile
+  Welcome to My GitHub Profile
 </p>
 
 - - -
 
-<p align="center">Being Passionate for technology 💻 and having a desire to learn and explore more 💭 makes Siddharth what he is. He is a Former <a href="https://progate.com/">Progate</a> Community Intern 🤝🏻, <a href="https://studentambassadors.microsoft.com/en-US/">Microsoft Learn
-Student Ambassador👨</a>, <a href="https://angelhack.com/">AngelHack</a> Student Ambassador👑, <a href="https://crowdsource.google.com/about/">Google Crowdsource</a>  Influencer 🤳🏻, Hackathon Mentor 🎯, <a href="https://codingblocks.com/">Coding Blocks</a> ~ <a href="https://www.hackerearth.com/">HackerEarth</a> Ambassador 🚀 and Lead Organizer for <a href="https://hackthisfall.tech/">Hack This Fall</a> Hackathon.🍁</p>
+<p align="center">Being Passionate for technology 💻 and having a desire to learn and explore more 💭 makes me what I am. I am a Community Development Intern at 🔐<a href="https://sawolabs.com/">SAWO Labs</a>, <a href="https://studentambassadors.microsoft.com/en-US/">Microsoft Learn
+Student Ambassador👨</a>, <a href="https://angelhack.com/">AngelHack</a> Student Ambassador👑, <a href="https://crowdsource.google.com/about/">Google Crowdsource</a>  Influencer 🤳🏻, Hackathon Mentor 🎯, <a href="https://codingblocks.com/">Coding Blocks</a> ~ <a href="https://www.hackerearth.com/">HackerEarth</a> Ambassador 🚀, Lead Organizer for <a href="https://hackthisfall.tech/">Hack This Fall</a> Hackathon🍁 and Former <a href="https://progate.com/">Progate</a> Community Intern 🤝🏻</p>
 
-<p align="center">His passion for Hackathon is immense and he has been part of 50+ Hackathons with different roles.🤓<br>Checkout his Hackathon Journey visiting <a href="https://siddharth-hacks.live/">siddharth-hacks.live</a>!🕺🏻</p>
+<p align="center">My passion for Hackathon is immense and I have been part of 50+ Hackathons with different roles.🤓<br>Checkout my Hackathon Journey visiting <a href="https://siddharthdayalwal.hashnode.dev/hackathon">here.</a>!🕺🏻</p>
 
-<p align="center">He is a Community Guy 💖 and a Public Speaker🎙️. Additionally travelling 🧳, music 🎼 and food 😋 is what he likes the most.</p>
+<p align="center">I am a Community Guy 💖 and a Public Speaker🎙️. Additionally travelling 🧳, music 🎼 and food 😋 is what I like the most.</p>
 
 - - -
 
 <p align="center">
-  Siddharth likes spending his time interacting with community 💪, attending various events 🗓️ & contributing in any way possible.🌟
+  I like spending my time interacting with community 💪, attending various events 🗓️ & contributing in any way possible.🌟
 </p>
 
 ![Community Cover](https://raw.githubusercontent.com/siddharthdayalwal/siddharthdayalwal/master/Images/community-cover.png)
 
 - - -
-<p align="center"> 😃 Siddharth would love to connect with you, so please do not hesitate to connect with him on below handles.👇</p>
+<p align="center"> 😃 I would love to connect with you, so please do not hesitate to connect with me on below handles.👇</p>
 
 <p align="center">
   <a href="https://twitter.com/siddharth_hacks"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="25"></img></a>&nbsp;&nbsp;
@@ -40,7 +40,7 @@ Student Ambassador👨</a>, <a href="https://angelhack.com/">AngelHack</a> Stude
 
 - - -
 <p align="center">
-  Feel free to reach out to Siddharth if you are interested to talk, he is always ready to have a conversation! 💯
+  Feel free to reach out to me if you are interested to talk, I am always ready to have a conversation! 💯
 </p>
 
 - - -
