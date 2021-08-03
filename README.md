@@ -14,6 +14,8 @@
 
 <p align="center">I am a Community Guy 💖 and a Public Speaker🎙️. Additionally travelling 🧳, music 🎼 and food 😋 is what I like the most.</p>
 
+<p align="center">Join my very own community : <a href="https://siddharth-hacks.live/community">SidHacks Community</a></p>
+
 - - -
 
 <p align="center">
