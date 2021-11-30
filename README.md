@@ -1,4 +1,4 @@
-![Siddharth Dayalwal](https://raw.githubusercontent.com/siddharthdayalwal/siddharthdayalwal/master/Images/Twitter%20Header.png)
+![Siddharth Dayalwal](https://user-images.githubusercontent.com/41017419/144126775-f4fd6efb-b61c-48fd-82c9-7e0f0e8aa045.png)
 
 - - -
 <p align="center">
@@ -8,9 +8,9 @@
 
 - - -
 
-<p align="center">Being Passionate for technology 💻 and having a desire to learn and explore more 💭 makes me what I am. I am a Community Evangelist Intern at 👨🏻‍💻 <a href="https://codingblocks.com/">Coding Blocks</a>, <a href="https://githubcampus.expert/siddharthdayalwal/">GitHub Campus Expert</a> 🚩, <a href="https://do.co/navigators">Digital Ocean Navigator</a> 🐋, <a href="https://wazirx.com/invite/pyuc887b">WazirX Warrior</a> 💰, <a href="https://studentambassadors.microsoft.com/en-US/">Microsoft Learn Student Ambassador</a> 👨, <a href="https://angelhack.com/">AngelHack</a> Student Ambassador👑, <a href="https://crowdsource.google.com/about/">Google Crowdsource</a>  Influencer 🤳🏻, Hackathon Mentor 🎯, Lead Organizer for <a href="https://hackthisfall.tech/">Hack This Fall</a> Hackathon🍁! Previously a <a href="https://progate.com/">Progate</a> Community Intern 🤝🏻 and Community Development Intern at 🔐 <a href="https://sawolabs.com/">SAWO Labs</a></p>
+<p align="center">Being Passionate for technology 💻 and having a desire to learn and explore more 💭 makes me what I am. I am a Developer Relations Engieer at 🥑 <a href="https://www.storyblok.com/">Storyblok</a>, <a href="https://githubcampus.expert/siddharthdayalwal/">GitHub Campus Expert</a> 🚩, <a href="https://do.co/navigators">Digital Ocean Navigator</a> 🐋, Lead Organizer for <a href="https://hackthisfall.tech/">Hack This Fall</a> Hackathon🍁 and <a href="https://twitter.com/GHFieldDayIndia">GitHub Field Day India</a>☂️! Previously a <a href="https://progate.com/">Progate</a> Community Intern 🤝🏻, Community Development Intern at 🔐 <a href="https://sawolabs.com/">SAWO Labs</a>, and Community Evangelist Intern👨🏻‍💻 <a href="https://codingblocks.com/">Coding Blocks</a>.</p>
 
-<p align="center">My passion for Hackathon is immense and I have been part of 60+ Hackathons with different roles.🤓<br>Checkout my Hackathon Journey visiting <a href="https://siddharth-hacks.hashnode.dev/hackathon">here</a>!🕺🏻</p>
+<p align="center">My passion for Hackathon is immense and I have been part of 80+ Hackathons with different roles.🤓<br>Checkout my Hackathon Journey visiting <a href="https://siddharth-hacks.hashnode.dev/hackathon">here</a>!🕺🏻</p>
 
 <p align="center">I am a Community Guy 💖 and a Public Speaker🎙️. Additionally travelling 🧳, music 🎼 and food 😋 is what I like the most.</p>
 
