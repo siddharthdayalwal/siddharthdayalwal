@@ -30,7 +30,7 @@
 <p align="center">
   <a href="https://twitter.com/siddharth_hacks"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="25"></img></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/siddharth_hacks"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="25"></img></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/siddharth-dayalwal/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/siddharthdayalwal/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>&nbsp;&nbsp;
   <a href="mailto:siddharthdayalwal2000@gmail.com"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" width="25"></img></a>&nbsp;&nbsp;
   <a href="https://medium.com/@siddharthdayalwal"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" width="25"></img></a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/c/SiddharthDayalwal?sub_confirmation=1"><img src="https://pngimg.com/uploads/youtube/youtube_PNG19.png" width="25"></img></a>&nbsp;&nbsp;
